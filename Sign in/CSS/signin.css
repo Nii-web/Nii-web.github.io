@@ -1,0 +1,21 @@
+* {box-sizing: border-box;}
+.container{
+    padding:16px
+}
+input[type=text], input[type=password]{
+
+    width:120%;
+    padding: 16px;
+    margin: 5px 0 22px 0;
+    display:inline-block;
+    border: none;
+    background: #dadd37
+}
+input[type=text]:focus, input[input=password]:focus{
+    background-color: #dadd37;
+    outline: ridge;
+}
+.signin {
+    background-color:#57c76f;
+    text-align: center;
+}
