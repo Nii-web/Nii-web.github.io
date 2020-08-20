@@ -1,5 +1,13 @@
 * {box-sizing: border-box}
 
+body {
+  background-color: rgb(226, 235, 238);
+}
+
+div {
+  background: rgba(0, 128, 0, 0.3) /* Green background with 30% opacity */
+}
+
 /* Add padding to containers */
 .container {
   padding: 16px;
