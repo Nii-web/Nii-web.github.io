@@ -2,6 +2,9 @@
 .container{
     padding:16px
 }
+div {
+    background: rgba(160, 144, 202, 0.3) /* Green background with 30% opacity */
+  }
 input[type=text], input[type=password]{
 
     width:120%;
